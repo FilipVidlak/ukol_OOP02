@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.Properties.Resources.resources
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\bin\Debug\ukol_OOP3.exe.config
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\bin\Debug\ukol_OOP3.exe
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\bin\Debug\ukol_OOP3.pdb
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.Form1.resources
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.exe
+C:\Users\filip\source\repos\ukol_OOP3\ukol_OOP3\obj\Debug\ukol_OOP3.pdb
